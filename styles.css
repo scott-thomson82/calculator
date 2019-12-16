@@ -1,0 +1,70 @@
+body {
+  background-image: url(images/kosmos-treugolniki-kuby-80s.jpg);
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-family: 'Audiowide', cursive;
+  font-size: 3em;
+  margin-bottom: 0.5%;
+}
+
+.calculator {
+  text-align: center;
+  background-color: rgb(192,192,192);
+  height: 330px;
+  width: 265px;
+  border-radius: 10px;
+  position: relative;
+  top: 80px;
+  margin: auto;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  padding: 0.4%;
+  
+  
+  
+}
+
+#display {
+  
+  width: 245px;
+  height: 50px;
+  background-color: #bccd95;
+  margin: .625rem .625rem;
+  text-align: right;
+  font-family: 'Iceland', cursive;
+  
+  
+}
+
+button {
+  width:55px;
+  height:40px;
+  text-align:center;
+  line-height:1.1em;
+  font-size:1.5em; 
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  margin: 1%;
+  font-family: 'Iceland', cursive;
+  background-color: lightgray;
+}
+
+.button-operator.equals {
+  width: 248px;
+  background-color: rgb(194, 90, 90);
+}
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
